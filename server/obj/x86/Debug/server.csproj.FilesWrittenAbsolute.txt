@@ -1,0 +1,5 @@
+/Users/huizai/Projects/server/server/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/huizai/Projects/server/server/bin/Debug/server.exe.mdb
+/Users/huizai/Projects/server/server/bin/Debug/server.exe
+/Users/huizai/Projects/server/server/obj/x86/Debug/server.exe
+/Users/huizai/Projects/server/server/obj/x86/Debug/server.exe.mdb
